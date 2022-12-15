@@ -65,7 +65,7 @@ user: mysecureusername
 password: mysecurepassword
 ```
 
-**NOTE:** If you are using IBM Cloud, You must use an automation user that was included in the IBM Cloud Welcome Back. It is not possible to connect to use tm1cm with your IBM ID
+**NOTE:** If you are using IBM Cloud, You must use an non-interactive automation user that was included in the IBM Cloud Welcome Pack. It is not possible to connect to use tm1cm with your IBM ID
 
 ### Update tm1cm.yaml
 
